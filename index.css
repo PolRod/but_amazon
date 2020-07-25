@@ -7,6 +7,8 @@
   width:575px;
   border-radius:30px;
   border:1px solid #dcdcdc;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .search-container:hover {
   box-shadow: 1px 1px 8px 1px #dcdcdc;
