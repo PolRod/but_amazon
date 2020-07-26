@@ -1,5 +1,11 @@
 .main {
   text-align: -webkit-center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+  margin-top:200px;
+  margin-bottom:20px;
 }
 
 .search-container {
@@ -16,6 +22,12 @@
 .search-container:focus-within {
   box-shadow: 1px 1px 8px 1px #dcdcdc;
   outline:none;
+}
+
+.description {
+  font-size: 14px;
+  color: 666666;
+
 }
 
 #query-text {
